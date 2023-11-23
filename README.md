@@ -1,8 +1,8 @@
-# Qwik Youtube
+# Qwik YouTube
 
-This repository contains code of a learning project called: "Qwik Youtube".
+This repository contains code of a learning project called: "Qwik YouTube".
 
-It's purpose is to build Youtube using the Qwik framework.
+It's purpose is to build YouTube using the Qwik framework.
 
 ## Learning
 
