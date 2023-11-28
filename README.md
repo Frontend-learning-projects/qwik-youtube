@@ -1,3 +1,5 @@
+![status](https://badgen.net/static/status/planned/grey/)
+
 # Qwik YouTube
 
 This repository contains code of a learning project called: "Qwik YouTube".
